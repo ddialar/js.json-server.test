@@ -1,0 +1,28 @@
+{
+  "name": "js.json-server.test",
+  "version": "1.0.0",
+  "description": "Simple testing code in order to work with json-server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json:server": "json-server db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddialar/js.json-server.test.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Testing",
+    "JSON"
+  ],
+  "author": "ddialar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddialar/js.json-server.test/issues"
+  },
+  "homepage": "https://github.com/ddialar/js.json-server.test#readme",
+  "devDependencies": {
+    "json-server": "^0.10.1"
+  }
+}
